@@ -77,3 +77,5 @@ if st.button("Predict", type="primary"):
       f"Prediction Confidence:"
       f" **{prediction_proba[0][prediction[0]]*100:.2f}%**"
   )
+  
+
